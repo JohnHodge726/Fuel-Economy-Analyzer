@@ -1,8 +1,6 @@
 package project1;
 import java.util.Scanner;
 /*
- * John Hodges
- * CS 160 Fall 2021
  * Project 1: CAFE Compliance Analyzer
  * Description: The purpose of this program is to calculate a vehicle's "footprint"
  * which is the total product of the vehicle's track width and wheelbase. Regulation of this footprint is determined by 
